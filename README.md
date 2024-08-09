@@ -1,4 +1,4 @@
-# Leetcode-Palindrome-Number
+# Leetcode Palindrome Number
 Palindrome Number
 
 Example 1:
@@ -16,7 +16,7 @@ Example 3:
           Input: x = 10
           Output: false
           Explanation: Reads 01 from right to left. Therefore it is not a palindrome.
-# Leetcode-Roman-to-integer
+# Leetcode Roman to integer
 Leetcode-Roman to integer
 
 Example 1:
