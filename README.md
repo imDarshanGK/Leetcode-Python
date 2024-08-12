@@ -16,6 +16,13 @@ Example 3:
           Input: x = 10
           Output: false
           Explanation: Reads 01 from right to left. Therefore it is not a palindrome.
+
+Example 4:
+
+          Input: x = 434
+          Output: true
+          Explanation: 434 reads as 434 from left to right and from right to left.
+          
 # Leetcode Roman to integer
 Leetcode Roman to integer
 
