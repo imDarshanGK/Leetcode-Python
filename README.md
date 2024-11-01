@@ -1,3 +1,3 @@
-# Leetcode Solutions
-This is a personal repository where I store my solutions to algorithmic problems from LeetCode, a popular platform for practicing coding interviews. The repository includes solutions in Python and the files are named according to the question number on Leetcode. The project is intended to serve as a record of my progress in problem-solving skills, and also as a reference for future coding interviews and technical discussions.
+# LeetCode Solutions in Python
+This repository contains my Python solutions to algorithmic problems from LeetCode, a well-known platform for coding interview preparation. Each file is named according to the corresponding question number on LeetCode. This project serves as a record of my progress in developing problem-solving skills and as a reference for future coding interviews and technical discussions.
 
